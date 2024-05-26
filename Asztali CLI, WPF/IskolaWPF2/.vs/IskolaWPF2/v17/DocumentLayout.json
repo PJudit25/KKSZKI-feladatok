@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|c:\\users\\attila\\source\\repos\\iskolawpf2\\iskolawpf2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|solutionrelative:iskolawpf2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|c:\\users\\attila\\source\\repos\\iskolawpf2\\iskolawpf2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|solutionrelative:iskolawpf2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|c:\\users\\attila\\source\\repos\\iskolawpf2\\iskolawpf2\\tanulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B518130-7ECC-4F6F-A777-3C940EB7C4F0}|IskolaWPF2\\IskolaWPF2.csproj|solutionrelative:iskolawpf2\\tanulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tanulo.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\Tanulo.cs",
+              "RelativeDocumentMoniker": "IskolaWPF2\\Tanulo.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\Tanulo.cs",
+              "RelativeToolTip": "IskolaWPF2\\Tanulo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:29:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "IskolaWPF2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\MainWindow.xaml",
+              "RelativeToolTip": "IskolaWPF2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-18T11:24:24.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "IskolaWPF2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\IskolaWPF2\\IskolaWPF2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "IskolaWPF2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T11:24:17.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

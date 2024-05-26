@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dz5RuYnDY0rhe9X3MU12GhVLVWj1uhQQzhAK4S7wThKh1fghRXKtyNGoJlN/k4503YjMhK2PF8pLmu0EX1ZEUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Attila\\source\\repos\\celloveszetWPF2\\celloveszetWPF2\\celloveszetWPF2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

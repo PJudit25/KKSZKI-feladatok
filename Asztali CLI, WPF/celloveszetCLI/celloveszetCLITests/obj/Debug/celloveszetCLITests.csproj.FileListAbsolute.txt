@@ -1,0 +1,19 @@
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\lovesek (1).csv
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\celloveszetCLITests.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\celloveszetCLITests.pdb
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\celloveszetCLI.exe
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\celloveszetCLI.pdb
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\celloveszetCLI.exe.config
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\obj\Debug\celloveszetCLITests.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\obj\Debug\celloveszetCLITests.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\obj\Debug\celloves.CED9FE0A.Up2Date
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\obj\Debug\celloveszetCLITests.dll
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLITests\obj\Debug\celloveszetCLITests.pdb

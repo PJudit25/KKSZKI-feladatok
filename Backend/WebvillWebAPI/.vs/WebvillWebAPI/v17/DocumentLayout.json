@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|c:\\users\\attila\\source\\repos\\webvillwebapi\\webvillwebapi\\controllers\\kategoriakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|solutionrelative:webvillwebapi\\controllers\\kategoriakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|c:\\users\\attila\\source\\repos\\webvillwebapi\\webvillwebapi\\controllers\\rendelesekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|solutionrelative:webvillwebapi\\controllers\\rendelesekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|c:\\users\\attila\\source\\repos\\webvillwebapi\\webvillwebapi\\models\\webvillcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E527523-C201-42E3-9A59-774D01E3E423}|WebvillWebAPI\\WebvillWebAPI.csproj|solutionrelative:webvillwebapi\\models\\webvillcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KategoriakController.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Controllers\\KategoriakController.cs",
+              "RelativeDocumentMoniker": "WebvillWebAPI\\Controllers\\KategoriakController.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Controllers\\KategoriakController.cs",
+              "RelativeToolTip": "WebvillWebAPI\\Controllers\\KategoriakController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:25:25.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RendelesekController.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Controllers\\RendelesekController.cs",
+              "RelativeDocumentMoniker": "WebvillWebAPI\\Controllers\\RendelesekController.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Controllers\\RendelesekController.cs",
+              "RelativeToolTip": "WebvillWebAPI\\Controllers\\RendelesekController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:15:55.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "webvillContext.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Models\\webvillContext.cs",
+              "RelativeDocumentMoniker": "WebvillWebAPI\\Models\\webvillContext.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\WebvillWebAPI\\WebvillWebAPI\\Models\\webvillContext.cs",
+              "RelativeToolTip": "WebvillWebAPI\\Models\\webvillContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:13:56.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

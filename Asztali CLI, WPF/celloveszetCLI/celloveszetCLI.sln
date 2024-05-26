@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celloveszetCLI", "celloveszetCLI\celloveszetCLI.csproj", "{2A9FD32A-D70B-4805-AC11-DE887FB32A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celloveszetCLITests", "celloveszetCLITests\celloveszetCLITests.csproj", "{A3ADB1FC-A261-479A-92CC-EB97FAA3CBBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9FD32A-D70B-4805-AC11-DE887FB32A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9FD32A-D70B-4805-AC11-DE887FB32A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9FD32A-D70B-4805-AC11-DE887FB32A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9FD32A-D70B-4805-AC11-DE887FB32A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3ADB1FC-A261-479A-92CC-EB97FAA3CBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3ADB1FC-A261-479A-92CC-EB97FAA3CBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3ADB1FC-A261-479A-92CC-EB97FAA3CBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3ADB1FC-A261-479A-92CC-EB97FAA3CBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2BB8FDB-4066-4415-8C92-7591EC013A8C}
+	EndGlobalSection
+EndGlobal

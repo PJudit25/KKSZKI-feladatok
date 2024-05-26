@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L8AX6p2PFN6usW81ABwdhHXv6McbVAiBsJX0X1nhRbjEkP6a9V+368gCL0BIg7jfggxUYVaOWmt5FPlxDhd67Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Attila\\source\\repos\\haromszogekWPF\\haromszogekWPF\\haromszogekWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Attila\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}

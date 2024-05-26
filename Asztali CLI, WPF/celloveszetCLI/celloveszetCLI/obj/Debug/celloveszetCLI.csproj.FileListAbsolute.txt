@@ -1,0 +1,8 @@
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\lovesek (1).csv
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.exe.config
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.exe
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\bin\Debug\celloveszetCLI.pdb
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.exe
+C:\Users\Attila\source\repos\celloveszetCLI\celloveszetCLI\obj\Debug\celloveszetCLI.pdb

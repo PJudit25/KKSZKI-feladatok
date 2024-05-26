@@ -1,0 +1,22 @@
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\celloveszetWPF2.exe
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\lovesek (1).csv
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\celloveszetWPF2.deps.json
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\celloveszetWPF2.runtimeconfig.json
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\celloveszetWPF2.dll
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\bin\Debug\net6.0-windows\celloveszetWPF2.pdb
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2_Content.g.cs
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2_MarkupCompile.cache
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2_MarkupCompile.lref
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.g.resources
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.AssemblyInfoInputs.cache
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.AssemblyInfo.cs
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.dll
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\refint\celloveszetWPF2.dll
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.pdb
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\celloveszetWPF2.genruntimeconfig.cache
+C:\Users\Attila\source\repos\celloveszetWPF2\celloveszetWPF2\obj\Debug\net6.0-windows\ref\celloveszetWPF2.dll

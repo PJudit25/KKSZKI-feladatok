@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{260E73A0-3C24-4EF0-90C3-270873B77E58}|haromszogekCLI\\haromszogekCLI.csproj|c:\\users\\attila\\source\\repos\\haromszogekcli\\haromszogekcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E73A0-3C24-4EF0-90C3-270873B77E58}|haromszogekCLI\\haromszogekCLI.csproj|solutionrelative:haromszogekcli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AE6E3B-8491-468D-8AF7-5A365C5F0BCC}|haromszogekCLITests\\haromszogekCLITests.csproj|c:\\users\\attila\\source\\repos\\haromszogekcli\\haromszogekclitests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AE6E3B-8491-468D-8AF7-5A365C5F0BCC}|haromszogekCLITests\\haromszogekCLITests.csproj|solutionrelative:haromszogekclitests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260E73A0-3C24-4EF0-90C3-270873B77E58}|haromszogekCLI\\haromszogekCLI.csproj|c:\\users\\attila\\source\\repos\\haromszogekcli\\haromszogekcli\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260E73A0-3C24-4EF0-90C3-270873B77E58}|haromszogekCLI\\haromszogekCLI.csproj|solutionrelative:haromszogekcli\\haromszog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLITests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "haromszogekCLITests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLITests\\ProgramTests.cs",
+              "RelativeToolTip": "haromszogekCLITests\\ProgramTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:59:45.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "haromszog.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLI\\haromszog.cs",
+              "RelativeDocumentMoniker": "haromszogekCLI\\haromszog.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLI\\haromszog.cs",
+              "RelativeToolTip": "haromszogekCLI\\haromszog.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:34:41.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLI\\Program.cs",
+              "RelativeDocumentMoniker": "haromszogekCLI\\Program.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\haromszogekCLI\\haromszogekCLI\\Program.cs",
+              "RelativeToolTip": "haromszogekCLI\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:30:52.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

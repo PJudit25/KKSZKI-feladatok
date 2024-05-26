@@ -1,0 +1,8 @@
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogek2.csv
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe.config
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.exe
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\bin\Debug\haromszogekCLI.pdb
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.exe
+C:\Users\Attila\source\repos\haromszogekCLI\haromszogekCLI\obj\Debug\haromszogekCLI.pdb

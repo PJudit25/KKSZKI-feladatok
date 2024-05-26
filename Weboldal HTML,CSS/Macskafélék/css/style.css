@@ -1,0 +1,65 @@
+header{
+	background-image:url('../img/fejlec.jpg');
+	height:260px;
+	background-position:center center;
+	background-repeat:no-repeat;
+	margin-top:15px;
+}
+
+body{
+	background-image: url('../img/hatter.jpg');
+}
+
+header h1{
+	background-color:rgba(223,160,91,0.15);
+	padding-left:3rem;
+	margin-top:5px;
+	font-weight:bold;
+	color:white;
+}
+
+h1,h2,h3{
+	color:orange;
+	text-transform:capitalize;
+}
+
+.jobbra{
+	width: 250px;
+	margin-left:20px;
+	float: right;
+}
+
+.info{
+	background-color: rgb(255,242,207);
+	border:solid 2px #000;
+	border-radius: 12px;
+}
+
+.lablec a{
+	color:black;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.lablec a:hover{
+	color:red;
+	font-style: italic;
+}
+
+
+#dolt{
+	font-style:italic;
+}
+
+.mancs{
+	margin-top:10px;
+	list-style-image: url("../img/mancs.png");
+}
+
+.felkover{
+	font-weight: bold;
+}
+
+p{
+	text-align: justify;
+}

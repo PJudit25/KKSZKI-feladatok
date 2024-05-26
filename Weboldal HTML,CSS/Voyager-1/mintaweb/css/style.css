@@ -1,0 +1,29 @@
+.info 
+    {
+        background-color: rgb(255 255 210);
+        border: 2px solid rgb(105 105 105);
+        border-radius: 10px;
+    }
+
+.felkover{
+    font-weight: bold;
+}
+
+.dolt{
+    font-style: italic;
+}
+
+p{
+    text-align: justify;
+}
+
+.lablec a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.lablec a:hover{
+    color: red;
+    font-style: italic;
+}

@@ -1,0 +1,8 @@
+C:\Users\Attila\source\repos\Iskola2\Iskola2\bin\Debug\nevek (1).txt
+C:\Users\Attila\source\repos\Iskola2\Iskola2\bin\Debug\Iskola2.exe.config
+C:\Users\Attila\source\repos\Iskola2\Iskola2\bin\Debug\Iskola2.exe
+C:\Users\Attila\source\repos\Iskola2\Iskola2\bin\Debug\Iskola2.pdb
+C:\Users\Attila\source\repos\Iskola2\Iskola2\obj\Debug\Iskola2.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\Iskola2\Iskola2\obj\Debug\Iskola2.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\Iskola2\Iskola2\obj\Debug\Iskola2.exe
+C:\Users\Attila\source\repos\Iskola2\Iskola2\obj\Debug\Iskola2.pdb

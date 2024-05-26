@@ -1,0 +1,8 @@
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\bin\Debug\valaszok.txt
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.exe.config
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.exe
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\bin\Debug\tesztverseny.pdb
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.csproj.AssemblyReference.cache
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.csproj.CoreCompileInputs.cache
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.exe
+C:\Users\Attila\source\repos\tesztverseny\tesztverseny\obj\Debug\tesztverseny.pdb

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\models\\versenyzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\models\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\models\\palya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\models\\csapat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\models\\versenycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\models\\versenycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\controllers\\koridocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\controllers\\koridocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|c:\\users\\attila\\source\\repos\\autoverseny\\autoverseny\\controllers\\palyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF994D2-8CD0-43EC-8066-CF3CEA6D13E8}|Autoverseny\\Autoverseny.csproj|solutionrelative:autoverseny\\controllers\\palyacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Versenyzo.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Versenyzo.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Models\\Versenyzo.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Versenyzo.cs",
+              "RelativeToolTip": "Autoverseny\\Models\\Versenyzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwBMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:38:41.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Csapat.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Csapat.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Models\\Csapat.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Csapat.cs",
+              "RelativeToolTip": "Autoverseny\\Models\\Csapat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:32:23.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palya.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Palya.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Models\\Palya.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\Palya.cs",
+              "RelativeToolTip": "Autoverseny\\Models\\Palya.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:31:59.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KoridoController.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Controllers\\KoridoController.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Controllers\\KoridoController.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Controllers\\KoridoController.cs",
+              "RelativeToolTip": "Autoverseny\\Controllers\\KoridoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T19:26:10.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PalyaController.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Controllers\\PalyaController.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Controllers\\PalyaController.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Controllers\\PalyaController.cs",
+              "RelativeToolTip": "Autoverseny\\Controllers\\PalyaController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:08:12.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "versenyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\versenyContext.cs",
+              "RelativeDocumentMoniker": "Autoverseny\\Models\\versenyContext.cs",
+              "ToolTip": "C:\\Users\\Attila\\source\\repos\\Autoverseny\\Autoverseny\\Models\\versenyContext.cs",
+              "RelativeToolTip": "Autoverseny\\Models\\versenyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T16:05:57.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
