@@ -1,0 +1,18 @@
+Backend futtatása:
+npm install -> node server.js
+dotnet run
+https://localhost:7017/swagger/index.html
+
+React-ban:
+npx create-react-app .
+npm i bootstrap bootstrap-icons axios react-router-dom
+
+npm uninstall web-vitals
+web-vitals kigyomlálása index.js-ből
+
+bootstrap és bootstrap-icons beimportálása index.js-be:
+import 'bootstrap/dist/css/bootstrap.css';
+import "bootstrap-icons/font/bootstrap-icons.css";
+
+Ha már létezik:
+npm install
